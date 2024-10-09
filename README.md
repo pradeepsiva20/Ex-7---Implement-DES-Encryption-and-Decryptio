@@ -44,16 +44,32 @@ int main() {
 ![exp7 crypp](https://github.com/user-attachments/assets/8ac873b7-ef98-4a5a-b6da-d3b2e73ef207)
 
 
-
-
-
-
-
-
-
 ## RESULT: 
 
 Thus , to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
