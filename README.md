@@ -24,7 +24,7 @@ void xor_encrypt_decrypt(char *input, char *key) {
 }
 
 int main() {
-    char url[] = "https://www.amazon.com/";
+    char url[] = "pradeep";
     char key[] = "secretkey"; // Simple key for XOR encryption
 
     printf("Original URL: %s\n", url);
