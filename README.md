@@ -10,6 +10,7 @@
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM: 
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -24,7 +25,7 @@ void xor_encrypt_decrypt(char *input, char *key) {
 }
 
 int main() {
-    char url[] = "pradeep";
+    char url[] = "https://www.amazon.com/";
     char key[] = "secretkey"; // Simple key for XOR encryption
 
     printf("Original URL: %s\n", url);
@@ -39,6 +40,7 @@ int main() {
 
     return 0;
 }
+```
 ## OUTPUT:
 
 ![exp7 crypp](https://github.com/user-attachments/assets/8ac873b7-ef98-4a5a-b6da-d3b2e73ef207)
